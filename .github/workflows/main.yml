@@ -1,0 +1,33 @@
+name: Hourly Weather Fetch
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour (UTC)
+  workflow_dispatch:      # Optional: manual trigger
+
+jobs:
+  fetch-weather:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pandas pytz
+
+      - name: Run fetch script
+        env:
+          OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+        run: python weather-api-call-streamlit.py
+
+      - name: Commit and push CSV
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add weather_log.csv
+          git commit -m "Hourly update"
+          git push
