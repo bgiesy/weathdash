@@ -17,7 +17,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests pandas pytz
+        run: pip install requests pandas pytz streamlit
 
       - name: Run fetch script
         env:
