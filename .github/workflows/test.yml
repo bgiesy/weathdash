@@ -2,7 +2,7 @@ name: Cron Test
 
 on:
   schedule:
-    - cron: '0/5 * * * *'  # Every hour UTC
+    - cron: '*/5 * * * *'  # Every hour UTC
 
 jobs:
   test:
