@@ -155,7 +155,7 @@ def beaufort_category(mph):
 
 
 
-# Handle sunrise and sunset timestamps in UTC; convert to local time if desired
+# Handle sunrise and sunset timestamps in UTC
 sunrise_raw = utc_to_local(sys['sunrise'], local_timezone_name) if 'sunrise' in sys else 'N/A'
 sunset_raw  = utc_to_local(sys['sunset'],  local_timezone_name) if 'sunset'  in sys else 'N/A'
 
