@@ -1,0 +1,53 @@
+timestamp,description,temp,feels_like,humidity,temp_min,temp_max,wind_speed_mph,wind_deg,wind_compass,wind_desc,cloud_cover,sunrise,sunset,rain_1h,uv_index,us_aqi,us_aqi_desc
+2025-05-26 07:00 PM,Broken clouds,70.29,69.37,50,68.09,72.52,20.62,90,E,Fresh breeze,75,5:47 AM,8:23 PM,0.0,8.9,15,Good
+2025-05-26 08:00 PM,Scattered clouds,67.08,66.22,58,64.54,68.97,12.86,140,SE,Gentle breeze,40,5:47 AM,8:23 PM,0.0,9.17,16,Good
+2025-05-26 09:00 PM,Scattered clouds,63.12,62.19,65,60.78,65.95,18.01,150,SSE,Moderate breeze,40,5:47 AM,8:23 PM,0.0,9.17,17,Good
+2025-05-26 10:00 PM,Clear sky,60.3,59.36,71,57.24,62.62,0.0,0,N,Calm,0,5:47 AM,8:23 PM,0.0,9.17,18,Good
+2025-05-26 11:00 PM,Clear sky,58.03,57.15,77,55.18,60.53,0.0,0,N,Calm,0,5:47 AM,8:23 PM,0.0,9.17,19,Good
+2025-05-27 12:00 AM,Clear sky,56.57,55.69,80,54.07,59.34,0.0,0,N,Calm,0,5:47 AM,8:24 PM,0.0,9.17,20,Good
+2025-05-27 01:00 AM,Clear sky,55,54.1,83,52.23,57.56,0.0,0,N,Calm,0,5:47 AM,8:24 PM,0.0,9.17,21,Good
+2025-05-27 02:00 AM,Broken clouds,54.54,53.69,85,50.97,57.65,12.86,190,S,Gentle breeze,75,5:47 AM,8:24 PM,0.0,9.03,22,Good
+2025-05-27 03:00 AM,Clear sky,52.99,52.07,87,50.09,56.16,0.0,0,N,Calm,0,5:47 AM,8:24 PM,0.0,9.03,23,Good
+2025-05-27 04:00 AM,Clear sky,52.56,51.6,87,49.78,55.4,0.0,0,N,Calm,0,5:47 AM,8:24 PM,0.0,9.03,23,Good
+2025-05-27 05:00 AM,Clear sky,52.02,51.06,88,49.08,54.66,0.0,0,N,Calm,0,5:47 AM,8:24 PM,0.0,9.03,23,Good
+2025-05-27 06:00 AM,Clear sky,51.6,50.65,89,48.94,54.32,0.0,0,N,Calm,0,5:47 AM,8:24 PM,0.0,9.03,24,Good
+2025-05-27 07:00 AM,Clear sky,52.92,52.05,88,50.25,55.56,0.0,0,N,Calm,0,5:47 AM,8:24 PM,0.0,9.03,24,Good
+2025-05-27 08:00 AM,Clear sky,57.99,57.4,83,54.07,61.27,2.26,188,S,Light air,0,5:47 AM,8:24 PM,0.0,9.03,25,Good
+2025-05-27 09:00 AM,Clear sky,61.23,60.62,76,58.78,63.21,2.26,76,ENE,Light air,0,5:47 AM,8:24 PM,0.0,9.03,29,Good
+2025-05-27 10:00 AM,Clear sky,64.29,63.72,70,61.93,66.25,7.7,20,NNE,Light breeze,0,5:47 AM,8:24 PM,0.0,9.03,27,Good
+2025-05-27 11:00 AM,Clear sky,66.15,65.46,64,63.93,68.27,8.95,93,E,Gentle breeze,0,5:47 AM,8:24 PM,0.0,9.03,28,Good
+2025-05-27 12:00 PM,Overcast clouds,67.14,66.36,60,64.76,69.22,20.62,120,ESE,Fresh breeze,100,5:47 AM,8:24 PM,0.0,9.03,24,Good
+2025-05-27 01:00 PM,Moderate rain,66.49,65.8,63,63.77,69.24,10.31,100,E,Gentle breeze,40,5:47 AM,8:24 PM,1.15,9.03,23,Good
+2025-05-27 02:00 PM,Moderate rain,64.83,64.31,70,62.24,67.32,10.31,120,ESE,Gentle breeze,100,5:47 AM,8:24 PM,3.16,9.03,23,Good
+2025-05-27 03:00 PM,Moderate rain,63.21,62.94,79,60.22,65.55,8.95,88,E,Gentle breeze,100,5:47 AM,8:24 PM,2.05,9.03,22,Good
+2025-05-27 04:00 PM,Overcast clouds,62.31,62.1,82,59.85,64.65,4.45,55,NE,Light breeze,100,5:47 AM,8:24 PM,0.0,9.03,21,Good
+2025-05-27 05:00 PM,Light rain,62.22,62.13,85,59.88,64.27,7.7,30,NNE,Light breeze,75,5:47 AM,8:24 PM,1,9.03,19,Good
+2025-05-27 06:00 PM,Light rain,59.4,59.22,89,57.07,61.68,10.8,218,SW,Gentle breeze,100,5:47 AM,8:24 PM,0.13,9.03,17,Good
+2025-05-27 07:00 PM,Overcast clouds,59.02,58.66,86,56.41,61.68,10.31,180,S,Gentle breeze,100,5:47 AM,8:24 PM,0.0,9.03,15,Good
+2025-05-27 08:00 PM,Overcast clouds,58.06,57.79,90,56.08,59.58,2.26,11,N,Light air,100,5:47 AM,8:24 PM,0.0,8.78,14,Good
+2025-05-27 09:00 PM,Light rain,57.25,56.71,86,55.08,58.91,0.0,0,N,Calm,100,5:47 AM,8:24 PM,0.56,8.78,13,Good
+2025-05-27 10:00 PM,Overcast clouds,56.48,55.92,87,54.07,58.32,10.31,330,NNW,Gentle breeze,100,5:47 AM,8:24 PM,0.0,8.78,12,Good
+2025-05-27 11:00 PM,Overcast clouds,55.89,55.31,88,54.07,57.65,2.26,17,NNE,Light air,100,5:47 AM,8:24 PM,0.0,8.78,12,Good
+2025-05-28 12:00 AM,Light rain,55.74,55.2,89,53.42,57.65,10.31,30,NNE,Gentle breeze,100,5:46 AM,8:25 PM,0.18,8.78,11,Good
+2025-05-28 01:00 AM,Overcast clouds,55.65,55.2,91,53.71,57.25,6.71,40,NE,Light breeze,100,5:46 AM,8:25 PM,0.0,8.78,11,Good
+2025-05-28 02:00 AM,Moderate rain,55.63,55.13,90,53.42,57.22,10.31,80,E,Gentle breeze,100,5:46 AM,8:25 PM,2.05,9.28,10,Good
+2025-05-28 03:00 AM,Light rain,54.3,53.65,90,52.68,55.53,10.31,50,NE,Gentle breeze,100,5:46 AM,8:25 PM,0.87,9.28,10,Good
+2025-05-28 04:00 AM,Mist,53.29,52.59,91,51.57,55.18,23.17,70,ENE,Fresh breeze,100,5:46 AM,8:25 PM,4.21,9.28,9,Good
+2025-05-28 05:00 AM,Moderate rain,53.19,52.52,92,50.95,55.42,25.72,50,NE,Strong breeze,100,5:46 AM,8:25 PM,3.65,9.28,8,Good
+2025-05-28 06:00 AM,Moderate rain,52.39,51.66,92,49.95,55.33,28.32,60,ENE,Strong breeze,100,5:46 AM,8:25 PM,1.33,9.28,8,Good
+2025-05-28 07:00 AM,Moderate rain,51.37,50.52,92,49.32,54.32,12.86,30,NNE,Gentle breeze,100,5:46 AM,8:25 PM,2.73,9.28,7,Good
+2025-05-28 08:00 AM,Moderate rain,51.62,50.81,92,50.2,53.62,36.04,60,ENE,Near gale,100,5:46 AM,8:25 PM,1.54,9.28,6,Good
+2025-05-28 09:00 AM,Moderate rain,52.25,51.58,94,50.88,54,18.01,60,ENE,Moderate breeze,100,5:46 AM,8:25 PM,3.65,9.28,7,Good
+2025-05-28 10:00 AM,Moderate rain,52.9,52.3,94,51.76,54.57,23.17,50,NE,Fresh breeze,100,5:46 AM,8:25 PM,3.16,9.28,6,Good
+2025-05-28 11:00 AM,Moderate rain,53.26,52.7,94,52.09,55.26,38.63,70,ENE,Near gale,100,5:46 AM,8:25 PM,1.78,9.28,6,Good
+2025-05-28 12:00 PM,Mist,53.96,53.47,94,52.77,55.42,28.32,70,ENE,Strong breeze,100,5:46 AM,8:25 PM,0.0,9.28,6,Good
+2025-05-28 01:00 PM,Light rain,54.79,54.39,94,53.22,56.37,25.72,60,ENE,Strong breeze,100,5:46 AM,8:25 PM,0.75,9.28,6,Good
+2025-05-28 02:00 PM,Mist,55.6,55.27,94,54.1,57.25,20.62,50,NE,Fresh breeze,100,5:46 AM,8:25 PM,0.65,9.28,6,Good
+2025-05-28 03:00 PM,Moderate rain,56.86,56.66,94,55.4,58.87,23.17,50,NE,Fresh breeze,100,5:46 AM,8:25 PM,1.15,9.28,7,Good
+2025-05-28 04:00 PM,Mist,57.72,57.61,94,55.85,59.25,12.86,60,ENE,Gentle breeze,100,5:46 AM,8:25 PM,1,9.28,8,Good
+2025-05-28 05:00 PM,Light rain,58.71,58.69,94,56.84,60.26,18.01,40,NE,Moderate breeze,100,5:46 AM,8:25 PM,0.49,9.28,8,Good
+2025-05-28 06:00 PM,Mist,58.73,58.73,94,57.07,60.33,20.62,30,NNE,Fresh breeze,100,5:46 AM,8:25 PM,0.0,9.28,8,Good
+2025-05-28 07:00 PM,Light intensity drizzle,58.73,58.73,94,57.09,60.26,25.72,40,NE,Strong breeze,100,5:46 AM,8:25 PM,0.0,9.28,8,Good
+2025-05-28 08:00 PM,Light intensity drizzle,58.35,58.3,94,57.07,60.01,23.17,20,NNE,Fresh breeze,100,5:46 AM,8:25 PM,0.0,8.73,8,Good
+2025-05-28 09:00 PM,Mist,57.9,57.81,94,57.07,59.32,23.17,20,NNE,Fresh breeze,100,5:46 AM,8:25 PM,0.0,8.73,8,Good
+2025-05-28 10:00 PM,Overcast clouds,57.88,57.79,94,56.41,59.22,15.46,350,N,Moderate breeze,100,5:46 AM,8:25 PM,0.0,8.73,8,Good
