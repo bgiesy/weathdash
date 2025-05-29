@@ -2,10 +2,11 @@ name: Cron Test
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Every hour UTC
+    - cron: '*/5 * * * *'  # Every 5 minutes
+  workflow_dispatch:
 
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Scheduled workflow triggered at $(date -u)"
+      - run: echo "Cron trigger successful at $(date -u)"
