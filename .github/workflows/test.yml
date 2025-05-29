@@ -1,0 +1,11 @@
+name: Cron Test
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour UTC
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Scheduled workflow triggered at $(date -u)"
