@@ -450,3 +450,4 @@ timestamp,description,temp,feels_like,humidity,temp_min,temp_max,wind_speed_mph,
 2025-06-16 12:31 AM,Overcast clouds,63.75,64.15,92,62.22,65.25,23.17,70,ENE,Fresh breeze,100,5:42 AM,8:35 PM,0.0,9.78,11,Good
 2025-06-16 01:20 AM,Light rain,63.37,63.73,92,62.1,64.51,20.62,50,NE,Fresh breeze,100,5:42 AM,8:35 PM,0.65,9.78,11,Good
 2025-06-16 02:29 AM,Moderate rain,63.07,63.39,92,62.08,64.51,25.72,60,ENE,Strong breeze,100,5:42 AM,8:35 PM,2.37,9.5,11,Good
+2025-06-16 03:20 AM,Heavy intensity rain,62.85,63.16,92,61.32,64.51,18.01,30,NNE,Moderate breeze,100,5:42 AM,8:35 PM,7.49,9.5,11,Good
