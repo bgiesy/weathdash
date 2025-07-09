@@ -972,3 +972,4 @@ timestamp,description,temp,feels_like,humidity,temp_min,temp_max,wind_speed_mph,
 2025-07-09 04:21 PM,Broken clouds,88.29,99.32,67,85.32,90.66,23.17,180,S,Fresh breeze,75,5:51 AM,8:35 PM,0.0,10.43,30,Good
 2025-07-09 05:18 PM,Overcast clouds,84.97,93.42,72,82.09,86.97,28.32,180,S,Strong breeze,100,5:51 AM,8:35 PM,0.0,10.43,29,Good
 2025-07-09 06:18 PM,Haze,79.25,79.25,81,73.78,82.65,10.31,40,NE,Gentle breeze,40,5:51 AM,8:35 PM,4.76,10.43,26,Good
+2025-07-09 07:18 PM,Thunderstorm,73.54,74.73,88,71.11,75.31,41.18,330,NNW,Gale,100,5:51 AM,8:35 PM,1.24,10.43,24,Good
