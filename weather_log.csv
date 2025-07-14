@@ -1081,3 +1081,4 @@ timestamp,description,temp,feels_like,humidity,temp_min,temp_max,wind_speed_mph,
 2025-07-14 03:15 PM,Broken clouds,89.08,101.68,70,86.27,91.26,30.87,170,S,Strong breeze,75,5:54 AM,8:33 PM,0.0,9.98,24,Good
 2025-07-14 04:22 PM,Broken clouds,87.49,99.39,71,84.92,90,30.87,170,S,Strong breeze,75,5:54 AM,8:33 PM,0.0,9.98,22,Good
 2025-07-14 05:19 PM,Broken clouds,86.02,98.62,78,83.21,88.27,18.01,170,S,Moderate breeze,75,5:54 AM,8:33 PM,0.0,9.98,22,Good
+2025-07-14 06:19 PM,Thunderstorm,80.28,85.44,84,77.34,83.52,28.32,280,W,Strong breeze,100,5:54 AM,8:33 PM,84.15,9.98,21,Good
