@@ -2358,3 +2358,4 @@ timestamp,description,temp,feels_like,humidity,temp_min,temp_max,wind_speed_mph,
 2025-09-10 02:25 PM,Light intensity drizzle,64.87,65.25,89,63.32,67.39,20.62,350,N,Fresh breeze,100,6:45 AM,7:25 PM,0.7,6.84,23,Good
 2025-09-10 03:14 PM,Overcast clouds,66.15,66.54,87,64.35,69.08,20.62,350,N,Fresh breeze,100,6:45 AM,7:25 PM,0.0,6.84,25,Good
 2025-09-10 04:19 PM,Overcast clouds,67.6,68.02,84,66.2,70.66,15.46,20,NNE,Moderate breeze,100,6:45 AM,7:25 PM,0.0,6.84,24,Good
+2025-09-10 05:15 PM,Smoke,68.58,69.03,83,66.58,71.71,12.86,340,NNW,Gentle breeze,100,6:45 AM,7:25 PM,0.0,6.84,22,Good
