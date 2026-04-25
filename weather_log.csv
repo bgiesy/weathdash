@@ -7022,3 +7022,4 @@ timestamp,description,temp,feels_like,humidity,temp_min,temp_max,wind_speed_mph,
 2026-04-25 03:42 PM,Overcast clouds,61.18,60.28,70,58.55,63.25,30.87,90,E,Strong breeze,100,6:18 AM,7:54 PM,0.0,7.1,44,Good
 2026-04-25 04:38 PM,Light rain,58.48,57.45,73,56.08,61.25,30.87,80,E,Strong breeze,100,6:18 AM,7:54 PM,0.12,7.1,44,Good
 2026-04-25 05:35 PM,Moderate rain,54.99,54,81,52.05,57.87,33.49,70,ENE,Near gale,100,6:18 AM,7:54 PM,2.11,7.1,44,Good
+2026-04-25 06:36 PM,Heavy intensity rain,51.64,50.54,86,49.57,54.57,30.87,90,E,Strong breeze,100,6:18 AM,7:54 PM,4.1,7.1,45,Good
