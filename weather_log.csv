@@ -8296,3 +8296,4 @@ timestamp,description,temp,feels_like,humidity,temp_min,temp_max,wind_speed_mph,
 2026-08-20 02:36 PM,Overcast clouds,88.68,100.35,67,86.23,90.66,15.46,200,SSW,Moderate breeze,94,6:26 AM,7:57 PM,0.0,8.26,23,Good
 2026-08-20 03:29 PM,Overcast clouds,90.14,101.79,63,87.33,92.25,23.17,210,SSW,Fresh breeze,94,6:26 AM,7:57 PM,0.0,8.26,23,Good
 2026-08-20 04:26 PM,Overcast clouds,88,96.08,62,83.34,90.66,33.49,290,WNW,Near gale,97,6:26 AM,7:57 PM,0.0,8.26,23,Good
+2026-08-20 05:25 PM,Very heavy rain,79.61,79.61,74,74.14,84.02,43.78,330,NNW,Gale,97,6:26 AM,7:57 PM,23.68,8.26,22,Good
